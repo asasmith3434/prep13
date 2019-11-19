@@ -1,0 +1,44 @@
+
+body{
+    background-color: aqua;
+   
+        
+    
+}
+h1{
+    font-family: "Times New Roman", Times, serif;
+    text-align:center;
+    background-color: aquamarine;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: auto;
+}
+
+p{ 
+   font-family: "Times New Roman", Times, serif;
+    text-align:center;
+    background-color: aquamarine;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: auto; 
+}
+ol{ 
+   font-family: "Times New Roman", Times, serif;
+    text-align:center;
+    background-color: aquamarine;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: auto;
+}
+svg{
+    float: right; 
+    width: 950px;
+    height: 800px;
+}
+
+
+
+
